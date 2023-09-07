@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yum-N
 - 👀 I’m interested in iOS, UI Design, and Mobile App.
-- 🌱 I’m currently learning C#, Swift, UI/UX Design, and iOS App
+- 🌱 I’m currently learning Swift, C#, UI/UX Design, CI/CD, and iOS App
 - 💞️ I’m looking to collaborate on ...
 - 📫 @kmyu421 in Twitter.
 
